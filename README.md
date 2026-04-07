@@ -2,6 +2,8 @@
 
 *This project focuses on Exploratory Data Analysis (EDA) of a retail superstore dataset using Power BI.*
 
+---
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -18,21 +20,25 @@
 - [Learnings](#learnings)
 - [Author](#author)
 
+---
 
 ### Overview
 
 This project is to analyze sales performance, profitability, and customer behavior across different regions, categories, and segments, and present insights through an interactive dashboard.
 
+---
 
 ### Business Problem
 
 Retail businesses often struggle to identify that Which products generate the most revenue, Which customer segments are most profitable and Which regions & shipping methods perform best. This project helps stakeholders make data-driven decisions by providing clear insights into sales and profit trends.
 
+---
 
 ### Data Source
 
 The primary dataset used for this analysis is the "samplesuperstore.csv" file, containing detailed information about each sale made by the retail superstore.
 
+---
 
 ### Tools
 
@@ -41,6 +47,7 @@ The primary dataset used for this analysis is the "samplesuperstore.csv" file, c
 - Power Query: Data cleaning and transformation
 - DAX (Data Analysis Expressions): Calculations and measures
 
+---
 
 ### Data Cleaning Process
 
@@ -49,6 +56,7 @@ The primary dataset used for this analysis is the "samplesuperstore.csv" file, c
 3. Corrected inconsistent data entries
 4. Standardized column formats (dates, text)
 
+---
 
 ### Business Questions
 
@@ -58,6 +66,7 @@ The primary dataset used for this analysis is the "samplesuperstore.csv" file, c
 - Which shipping mode is most profitable?
 - Which region contributes the most to sales?
 
+---
 
 ### Results
 
@@ -67,6 +76,7 @@ The primary dataset used for this analysis is the "samplesuperstore.csv" file, c
 - Standard Class shipping has the highest usage (57.3%)
 - West region contributes the most to sales (0.73M)
 
+---
 
 ### Dashboard
 
@@ -77,6 +87,7 @@ The primary dataset used for this analysis is the "samplesuperstore.csv" file, c
 
 <img width="1366" height="639" alt="SampleSuperstoreImage" src="https://github.com/user-attachments/assets/c90574c8-4629-4c06-8c7a-a2a1924228a5" />
 
+---
 
 ### Recommendations
 
@@ -85,6 +96,7 @@ The primary dataset used for this analysis is the "samplesuperstore.csv" file, c
 - Optimize Shipping Strategy
 - Improve Low-Performing Areas
 
+---
 
 ### Outcome
 
@@ -93,11 +105,17 @@ The primary dataset used for this analysis is the "samplesuperstore.csv" file, c
 - Highlighted key operational insights such as most used shipping mode (Standard Class) and regional performance.
 - Enabled data-driven decision-making by converting raw retail data into actionable insights.
 
+---
 
 ### How to Use
 
-Filter Data Dynamically
+- Download the Project
+- Open the Dashboard File
+- Explore the Dashboard
+- Apply Filters for Insights
+- Understand Key Visuals
 
+---
 
 ### Learnings
 
@@ -106,6 +124,7 @@ Filter Data Dynamically
 - Learned how to design interactive dashboards
 - Developed ability to derive business insights from data
 
+---
 
 ### Author
 

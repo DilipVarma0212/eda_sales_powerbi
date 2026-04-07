@@ -1,4 +1,4 @@
-# Retail Data Analysis Dashboard
+# Retail Superstore Sales Analysis Dashboard
 
 *This project focuses on Exploratory Data Analysis (EDA) of a retail superstore dataset using Power BI.*
 
